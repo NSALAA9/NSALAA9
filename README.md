@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ala'a Nsairat
+## 👋 Hi, I’m Ala'a Nsairat
 A fresh graduated Computer Engineer with an experience in web development and Data Science.
 Self-motivated, team player with strong organizational and interpersonal skills.
 Always looking to learn new skills, take on extra responsibilities, and grow professionally.
